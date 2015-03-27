@@ -1,0 +1,12 @@
+{
+  "pbWebUrl": "https://bilet.privatbank.ua/sports",
+  "pbApi": {
+    "uri": "https://bilet.privatbank.ua/widgets/sport/vendor/event",
+    "method": "POST",
+    "json": {
+      "vendorId": 10,
+      "eventId": 316,
+      "needSVG": true
+    }
+  }
+}
